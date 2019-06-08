@@ -1,22 +1,22 @@
 {
   items: [
       {
-        id: 1,
-        name: 'bananas',
-        quantity: 5,
-        finished: false
+        "id": 1,
+        "name": "bananas",
+        "quantity": 5,
+        "finished": false
       },
       {
-        id: 2,
-        name: 'apples',
-        quantity: 2,
-        finished: false
+        "id": 2,
+        "name": "apples",
+        "quantity": 2,
+        "finished": false
       },
       {
-        id: 3,
-        name: 'toiletpaper (#roles)',
-        quantity: 2,
-        finished: false
+        "id": 3,
+        "name": "toiletpaper (#roles)",
+        "quantity": 2,
+        "finished": false
       }
     ],
   "comments": [
